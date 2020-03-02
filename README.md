@@ -3,3 +3,4 @@
 
 -----------------------
 1.Soru -> https://github.com/dATA-Teknoloji-Toplulugu/Sorular-ve-Cozumler/issues/1
+2.Soru -> https://github.com/dATA-Teknoloji-Toplulugu/Sorular-ve-Cozumler/issues/2
